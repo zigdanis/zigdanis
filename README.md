@@ -32,3 +32,5 @@ Most of this is commercial / client work, so the code is private — here's what
 - ✉️ Email — zigdanis@gmail.com
 
 <sub>English: C2 (EF SET 79/100) · based in Kazan, Russia (GMT+3)</sub>
+
+<!-- profile -->
