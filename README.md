@@ -31,6 +31,6 @@ Most of this is commercial / client work, so the code is private — here's what
 - 💼 LinkedIn — https://linkedin.com/in/dan1s
 - ✉️ Email — zigdanis@gmail.com
 
-<sub>English: C2 (EF SET 79/100) · based in Kazan, Russia (GMT+3)</sub>
+<sub>English: C2 (EF SET 79/100)</sub>
 
 <!-- profile -->
